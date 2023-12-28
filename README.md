@@ -39,23 +39,9 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 - **Code:** Any code snippets or scripts used in the analysis.
 - **Images:** Repository for images used in the documentation.
 
-## How to Use
 
-1. **Power BI Reports:**
-   - Open Power BI Desktop.
-   - Load the provided datasets.
-   - Open the Power BI reports for detailed visualizations.
-
-2. **Presentation:**
-   - Access the PowerPoint presentation for a summary of key findings and recommendations.
-
-3. **Code:**
-   - If any scripts or code snippets are provided, follow the instructions in the code documentation.
 
 ## Feedback and Contributions
 
 Feel free to provide feedback or suggestions by opening an issue in the repository. Contributions are welcome!
 
----
-
-**Note:** This README provides a general structure. Adjust sections and content based on the specific details and structure of your project.
