@@ -14,7 +14,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 2. **Avg Income Utilization %:**
    - Calculate the average income utilization % to gauge the likelihood of credit card usage.
    - Higher % indicates a greater inclination towards credit card adoption.
-![Spending Analysis](insert_image_url_here)
+[Spending Analysis](https://github.com/psmadal1203/Credit_Card_Strategy/blob/main/Income%20Analysis.JPG)
 
 3. **Spending Insights:**
    - Explore spending patterns based on occupation, gender, city, and age.
