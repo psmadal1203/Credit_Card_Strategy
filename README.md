@@ -9,7 +9,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 1. **Demographic Classification:**
    - Analyze customer data based on age group, gender, occupation, and other demographic factors.
    - Unlock valuable insights to inform targeted strategies for the new credit cards.
-![Customer Demographics](insert_image_url_here)
+![Customer Demographics](https://github.com/psmadal1203/Credit_Card_Strategy/blob/main/Customer%20Demographics.JPG)
 
 2. **Avg Income Utilization %:**
    - Calculate the average income utilization % to gauge the likelihood of credit card usage.
