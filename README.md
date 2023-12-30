@@ -4,7 +4,9 @@
 
 Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to introduce a new line of credit cards to expand its product offerings and market reach. This project involves analyzing a sample dataset provided by AtliQ Data Services to derive insights that will inform the strategic development of the new credit card line.
 
-## Project Objectives
+## Presentation Slides
+
+
 
 1. **Demographic Classification:**
    - Analyze customer data based on age group, gender, occupation, and other demographic factors.
@@ -24,7 +26,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 4. **Key Customer Segments:**
    - Identify high-value customer segments by analyzing demographics, spending behaviors, and financial preferences.
    - Use these insights to personalize credit card offerings.
-![Key Customer Segments](insert_image_url_here)
+[Key Customer Segments](https://github.com/psmadal1203/Credit_Card_Strategy/blob/main/Key%20Customers.JPG)
 
 5. **Credit Card Feature Recommendations:**
    - Provide recommendations for key credit card features.
@@ -32,11 +34,8 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 
 ## Repository Contents
 
-- **Power BI Reports:** Folder containing Power BI reports and visualizations.
 - **Presentation:** Folder with PowerPoint presentation slides.
-- **Code:** Any code snippets or scripts used in the analysis.
 - **Images:** Repository for images used in the documentation.
-
 
 
 ## Feedback and Contributions
