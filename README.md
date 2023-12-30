@@ -6,7 +6,7 @@ Mitron Bank, a legacy financial institution headquartered in Hyderabad, aims to 
 
 ## Presentation Slides
 
-
+[Presentation](https://github.com/psmadal1203/Credit_Card_Strategy/blob/main/Mitron%20Bank%20Credit%20Card%20Analysis-Slides.pdf)
 
 1. **Demographic Classification:**
    - Analyze customer data based on age group, gender, occupation, and other demographic factors.
